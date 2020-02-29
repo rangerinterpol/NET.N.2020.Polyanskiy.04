@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Рекурсивный поиск максимального элемента", "Рекурсивный поиск максимального элемента\Рекурсивный поиск максимального элемента.csproj", "{2100069D-68E0-4ED3-AEF2-534492423F41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Поиск индекса с равными суммами элементов справа и слева", "Поиск индекса с равными суммами элементов справа и слева\Поиск индекса с равными суммами элементов справа и слева.csproj", "{CDD416BE-D3F4-4199-982D-2E8DD25C921B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Конкатекация латинских строк", "Конкатекация латинских строк\Конкатекация латинских строк.csproj", "{B351F83C-479B-48D3-887E-95C24E059A33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Нахождение ближайшего наибольшего целого", "Нахождение ближайшего наибольшего целого\Нахождение ближайшего наибольшего целого.csproj", "{56E9ADE0-7ED9-45D5-9B49-229BAB424E2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Фильтрация по заданной цифре", "Фильтрация по заданной цифре\Фильтрация по заданной цифре.csproj", "{2C01EA3B-55C4-48DC-A3CB-60FB0F3AEF4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2100069D-68E0-4ED3-AEF2-534492423F41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2100069D-68E0-4ED3-AEF2-534492423F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2100069D-68E0-4ED3-AEF2-534492423F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2100069D-68E0-4ED3-AEF2-534492423F41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDD416BE-D3F4-4199-982D-2E8DD25C921B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD416BE-D3F4-4199-982D-2E8DD25C921B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD416BE-D3F4-4199-982D-2E8DD25C921B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD416BE-D3F4-4199-982D-2E8DD25C921B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B351F83C-479B-48D3-887E-95C24E059A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B351F83C-479B-48D3-887E-95C24E059A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B351F83C-479B-48D3-887E-95C24E059A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B351F83C-479B-48D3-887E-95C24E059A33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56E9ADE0-7ED9-45D5-9B49-229BAB424E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56E9ADE0-7ED9-45D5-9B49-229BAB424E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56E9ADE0-7ED9-45D5-9B49-229BAB424E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56E9ADE0-7ED9-45D5-9B49-229BAB424E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C01EA3B-55C4-48DC-A3CB-60FB0F3AEF4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C01EA3B-55C4-48DC-A3CB-60FB0F3AEF4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C01EA3B-55C4-48DC-A3CB-60FB0F3AEF4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C01EA3B-55C4-48DC-A3CB-60FB0F3AEF4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF599615-7218-4272-9117-FAEF70F24335}
+	EndGlobalSection
+EndGlobal

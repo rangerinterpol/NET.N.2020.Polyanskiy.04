@@ -1,0 +1,6 @@
+C:\Users\Администратор2\Desktop\C# EPAM\Nickolay. Basic Coding in CSharp\Поиск индекса с равными суммами элементов справа и слева\obj\Debug\Поиск индекса с равными суммами элементов справа и слева.csprojAssemblyReference.cache
+C:\Users\Администратор2\Desktop\C# EPAM\Nickolay. Basic Coding in CSharp\Поиск индекса с равными суммами элементов справа и слева\bin\Debug\Поиск индекса с равными суммами элементов справа и слева.exe.config
+C:\Users\Администратор2\Desktop\C# EPAM\Nickolay. Basic Coding in CSharp\Поиск индекса с равными суммами элементов справа и слева\bin\Debug\Поиск индекса с равными суммами элементов справа и слева.exe
+C:\Users\Администратор2\Desktop\C# EPAM\Nickolay. Basic Coding in CSharp\Поиск индекса с равными суммами элементов справа и слева\bin\Debug\Поиск индекса с равными суммами элементов справа и слева.pdb
+C:\Users\Администратор2\Desktop\C# EPAM\Nickolay. Basic Coding in CSharp\Поиск индекса с равными суммами элементов справа и слева\obj\Debug\Поиск индекса с равными суммами элементов справа и слева.exe
+C:\Users\Администратор2\Desktop\C# EPAM\Nickolay. Basic Coding in CSharp\Поиск индекса с равными суммами элементов справа и слева\obj\Debug\Поиск индекса с равными суммами элементов справа и слева.pdb

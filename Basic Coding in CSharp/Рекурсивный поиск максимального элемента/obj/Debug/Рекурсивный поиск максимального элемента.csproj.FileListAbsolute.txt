@@ -1,0 +1,6 @@
+C:\Users\Администратор2\Desktop\C# EPAM\Nickolay. Basic Coding in CSharp\Рекурсивный поиск максимального элемента\bin\Debug\Рекурсивный поиск максимального элемента.exe.config
+C:\Users\Администратор2\Desktop\C# EPAM\Nickolay. Basic Coding in CSharp\Рекурсивный поиск максимального элемента\bin\Debug\Рекурсивный поиск максимального элемента.exe
+C:\Users\Администратор2\Desktop\C# EPAM\Nickolay. Basic Coding in CSharp\Рекурсивный поиск максимального элемента\bin\Debug\Рекурсивный поиск максимального элемента.pdb
+C:\Users\Администратор2\Desktop\C# EPAM\Nickolay. Basic Coding in CSharp\Рекурсивный поиск максимального элемента\obj\Debug\Рекурсивный поиск максимального элемента.csprojAssemblyReference.cache
+C:\Users\Администратор2\Desktop\C# EPAM\Nickolay. Basic Coding in CSharp\Рекурсивный поиск максимального элемента\obj\Debug\Рекурсивный поиск максимального элемента.exe
+C:\Users\Администратор2\Desktop\C# EPAM\Nickolay. Basic Coding in CSharp\Рекурсивный поиск максимального элемента\obj\Debug\Рекурсивный поиск максимального элемента.pdb

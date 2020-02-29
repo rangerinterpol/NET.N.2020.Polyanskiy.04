@@ -1,0 +1,6 @@
+C:\Users\Администратор2\Desktop\C# EPAM\Nickolay. Basic Coding in CSharp\Фильтрация по заданной цифре\obj\Debug\Фильтрация по заданной цифре.csprojAssemblyReference.cache
+C:\Users\Администратор2\Desktop\C# EPAM\Nickolay. Basic Coding in CSharp\Фильтрация по заданной цифре\bin\Debug\Фильтрация по заданной цифре.exe.config
+C:\Users\Администратор2\Desktop\C# EPAM\Nickolay. Basic Coding in CSharp\Фильтрация по заданной цифре\bin\Debug\Фильтрация по заданной цифре.exe
+C:\Users\Администратор2\Desktop\C# EPAM\Nickolay. Basic Coding in CSharp\Фильтрация по заданной цифре\bin\Debug\Фильтрация по заданной цифре.pdb
+C:\Users\Администратор2\Desktop\C# EPAM\Nickolay. Basic Coding in CSharp\Фильтрация по заданной цифре\obj\Debug\Фильтрация по заданной цифре.exe
+C:\Users\Администратор2\Desktop\C# EPAM\Nickolay. Basic Coding in CSharp\Фильтрация по заданной цифре\obj\Debug\Фильтрация по заданной цифре.pdb

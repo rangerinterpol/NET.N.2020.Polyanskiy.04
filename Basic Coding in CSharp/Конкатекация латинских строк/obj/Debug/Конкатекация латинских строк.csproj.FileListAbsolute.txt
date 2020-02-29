@@ -1,0 +1,6 @@
+C:\Users\Администратор2\Desktop\C# EPAM\Nickolay. Basic Coding in CSharp\Конкатекация латинских строк\bin\Debug\Конкатекация латинских строк.exe.config
+C:\Users\Администратор2\Desktop\C# EPAM\Nickolay. Basic Coding in CSharp\Конкатекация латинских строк\bin\Debug\Конкатекация латинских строк.exe
+C:\Users\Администратор2\Desktop\C# EPAM\Nickolay. Basic Coding in CSharp\Конкатекация латинских строк\bin\Debug\Конкатекация латинских строк.pdb
+C:\Users\Администратор2\Desktop\C# EPAM\Nickolay. Basic Coding in CSharp\Конкатекация латинских строк\obj\Debug\Конкатекация латинских строк.csprojAssemblyReference.cache
+C:\Users\Администратор2\Desktop\C# EPAM\Nickolay. Basic Coding in CSharp\Конкатекация латинских строк\obj\Debug\Конкатекация латинских строк.exe
+C:\Users\Администратор2\Desktop\C# EPAM\Nickolay. Basic Coding in CSharp\Конкатекация латинских строк\obj\Debug\Конкатекация латинских строк.pdb

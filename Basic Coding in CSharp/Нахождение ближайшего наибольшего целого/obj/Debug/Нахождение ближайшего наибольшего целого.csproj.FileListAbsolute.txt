@@ -1,0 +1,6 @@
+C:\Users\Администратор2\Desktop\C# EPAM\Nickolay. Basic Coding in CSharp\Нахождение ближайшего наибольшего целого\bin\Debug\Нахождение ближайшего наибольшего целого.exe.config
+C:\Users\Администратор2\Desktop\C# EPAM\Nickolay. Basic Coding in CSharp\Нахождение ближайшего наибольшего целого\bin\Debug\Нахождение ближайшего наибольшего целого.exe
+C:\Users\Администратор2\Desktop\C# EPAM\Nickolay. Basic Coding in CSharp\Нахождение ближайшего наибольшего целого\bin\Debug\Нахождение ближайшего наибольшего целого.pdb
+C:\Users\Администратор2\Desktop\C# EPAM\Nickolay. Basic Coding in CSharp\Нахождение ближайшего наибольшего целого\obj\Debug\Нахождение ближайшего наибольшего целого.csprojAssemblyReference.cache
+C:\Users\Администратор2\Desktop\C# EPAM\Nickolay. Basic Coding in CSharp\Нахождение ближайшего наибольшего целого\obj\Debug\Нахождение ближайшего наибольшего целого.exe
+C:\Users\Администратор2\Desktop\C# EPAM\Nickolay. Basic Coding in CSharp\Нахождение ближайшего наибольшего целого\obj\Debug\Нахождение ближайшего наибольшего целого.pdb
